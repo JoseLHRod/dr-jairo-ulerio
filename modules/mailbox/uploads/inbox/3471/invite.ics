@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220211T130000Z
+DTEND:20220211T154500Z
+DTSTAMP:20220210T121753Z
+ORGANIZER;CN=mmccreativity@gmail.com:mailto:mmccreativity@gmail.com
+UID:7ka59e5araft5lla3puliopqts@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=fernandoff85@gmail.com;X-NUM-GUESTS=0:mailto:fernandoff85@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=mmccreativity@gmail.com;X-NUM-GUESTS=0:mailto:mmccreativity@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mariaelenatorres92@gmail.com;X-NUM-GUESTS=0:mailto:mariaelenatorres
+ 92@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=drjairouleriovargas@gmail.com;X-NUM-GUESTS=0:mailto:drjairouleriova
+ rgas@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=calb.uio@gmail.com;X-NUM-GUESTS=0:mailto:calb.uio@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:-1923630971
+CREATED:20220210T033544Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nNo edites esta sección de la descripción.\n\nVisu
+ alice el evento en la URL https://calendar.google.com/calendar/event?action
+ =VIEW&eid=N2thNTllNWFyYWZ0NWxsYTNwdWxpb3BxdHMgZHJqYWlyb3VsZXJpb3Zhcmdhc0Bt&
+ tok=MjMjbW1jY3JlYXRpdml0eUBnbWFpbC5jb20yNThjNmRhNGQ2MDUxNzA4YzIzNWQ2Mjg0N2U
+ zNzY5ZWMzOTQ0OThk&ctz=America%2FSanto_Domingo&hl=es&es=1.\n-::~:~::~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220210T121752Z
+LOCATION:https://maps.app.goo.gl/28JDEBQ95Hm5bo4A8
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Producción de Demo - Caona Intereactive
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220114T220000Z
+DTEND:20220114T230000Z
+DTSTAMP:20220114T184100Z
+ORGANIZER;CN=mmccreativity@gmail.com:mailto:mmccreativity@gmail.com
+UID:18r3fudjcnn3okkc77mnm2te46@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=fernandoff85@gmail.com;X-NUM-GUESTS=0:mailto:fernandoff85@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=mmccreativity@gmail.com;X-NUM-GUESTS=0:mailto:mmccreativity@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=drjairouleriovargas@gmail.com;X-NUM-GUESTS=0:mailto:drjairouleriova
+ rgas@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mariaelenatorres92@gmail.com;X-NUM-GUESTS=0:mailto:mariaelenatorres
+ 92@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:1837495322
+CREATED:20220113T204414Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nNo edites esta sección de la descripción.\n\nUnir
+ me Zoom Meeting\nhttps://us04web.zoom.us/j/76669849329?pwd=ikGoDDDwCUSxwfY-
+ -oQQY0w7B8YF6y.1 (ID: 76669849329\, contraseña: YX5vQ2)\n\nInstrucciones pa
+ ra unirse: https://www.google.com/url?q=https://applications.zoom.us/addon/
+ invitation/detail?meetingUuid%3DJwS3cYLuT7S1MLwwHkfO7w%253D%253D%26signatur
+ e%3D0b8a331e634b61d73d6bb7a2e87af51d0c61a82a9d04de56f40df48d3ded9bd9%26v%3D
+ 1&sa=D&source=calendar&usg=AOvVaw09PnGtRCK294NVgfTDDmzw\n\nMeeting host: <a
+  href="mailto:mmccreativity@gmail.com" target="_blank">mmccreativity@gmail.
+ com</a>\n\nVisualice el evento en la URL https://calendar.google.com/calend
+ ar/event?action=VIEW&eid=MThyM2Z1ZGpjbm4zb2trYzc3bW5tMnRlNDYgZHJqYWlyb3VsZX
+ Jpb3Zhcmdhc0Bt&tok=MjMjbW1jY3JlYXRpdml0eUBnbWFpbC5jb20wYzNhNTY4ZmYzMTYyMWY2
+ YmJhYzI3YjczMWFlM2M5MTRkODYxOTgw&ctz=America%2FSanto_Domingo&hl=es&es=1.\n-
+ ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~::~:~::-
+LAST-MODIFIED:20220114T184059Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Revisión de Propuesta Caona Int. Part II 
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

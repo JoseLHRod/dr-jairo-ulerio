@@ -1,0 +1,452 @@
+.newPatitentForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    background: #efefef;
+    padding: 5rem 0;
+}
+
+.formContainer {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: auto;
+}
+
+.selectorContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.selectorContainer .tab {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+}
+
+.selectorContainer .tab a {
+    font-size: 2rem;
+    font-weight: bold;
+    padding-bottom: .5rem;
+    color: white;
+    width: 100%;
+    height: 100%;
+    padding: 1rem;
+    background: darkgray;
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    transition: all 0.3s ease-in-out;
+}
+
+.selectorContainer .tabDisable a {
+    cursor: not-allowed;
+}
+
+.selectorContainer .tab a:hover, .selectorContainer .tab a:focus {
+    text-decoration: none;
+}
+
+.selectorContainer .tab a.active, .selectorContainer .tab a:hover {
+    color: #a8a8a8;
+    background: white;
+}
+
+.stepsContainer {
+    position: relative;
+    background: white;
+    width: 100%;
+    height: auto;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 5rem;
+}
+
+.inputContainer .containerTitle {
+    font-size: 2rem;
+    color: #A9A9A9;
+    text-align: start;
+    text-transform: uppercase;
+}
+
+.inputContainer .containerSubtitle {
+    font-size: 1rem;
+    color: #B9B9B9;
+    text-align: start;
+    text-transform: uppercase;
+    margin: 0;
+    margin-bottom: 3rem;
+}
+
+
+.inputsWrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1.5rem;
+    justify-content: center;
+    align-items: start;
+}
+
+/* inputs styles */
+.inputExternal {
+    width: 100%;
+    display: block;
+	padding: 9px;
+	border:1px solid #DDDDDD;
+	margin-bottom: 30px;
+    border-radius: 3px;
+    position: relative;
+}
+
+.inputExternal > label{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+	float: left;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    color: #B9B9B9;
+    position: relative;
+    padding: .5rem;
+    margin-top: -21px;
+    margin-bottom: 0;
+    overflow: hidden;
+}
+
+.inputExternal label.error {
+    position: absolute;
+    bottom: -25%;
+    color: rgb(253, 95, 95);
+}
+
+.inputExternal input[type="text"],
+.inputExternal input[type="date"],
+.inputExternal input[type="datetime"],
+.inputExternal input[type="email"],
+.inputExternal input[type="number"],
+.inputExternal input[type="search"],
+.inputExternal input[type="time"],
+.inputExternal input[type="url"],
+.inputExternal input[type="password"],
+.inputExternal textarea,
+.inputExternal select 
+{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	width: 100%;
+	display: block;
+	outline: none;
+	border: none;
+	height: auto;
+	line-height: 25px;
+	font-size: 16px;
+	padding: 0;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.inputExternal textarea{
+	resize:none;
+}
+
+.inputExternal .checkboxContainer{
+	display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.inputExternal .checkboxContainer input[type="checkbox"] {
+	margin: 0;
+}
+
+.inputExternal .checkboxContainer .checkboxText {
+	margin-left: 1rem;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formSecondaryBtn {
+    color: white;
+    background: #b9b9b9;
+    border-radius: 3px;
+    border: none;
+    padding: 1rem;
+    margin: 0 2rem;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.formSecondaryBtn:hover {
+    background: #999999;
+}
+
+.formMainBtn {
+    color: white;
+    background: rgb(66, 139, 255);
+    border-radius: 3px;
+    border: none;
+    padding: 1rem 2rem;
+    margin: 0 2rem;
+    cursor: pointer;
+    text-align: center;
+    transition: background 0.3s ease-in-out;
+}
+
+.formMainBtn:hover {
+    background: rgba(66, 139, 255, 0.8);
+}
+
+/* style all elements with a required attribute */
+.inputExternal label .inputReq {
+    color: rgb(253, 95, 95);
+    margin-left: 5px;
+}
+
+/* lead Fancybox image wrappers */
+.fancyWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 150px;
+    border: 2px solid gray;
+    position: relative;
+    overflow: hidden;
+    margin-top: 1rem;
+    transition: all 0.3s ease-in-out;
+}
+
+.fancyWrapper .fancyImg {
+    height: auto;
+    width: 100%;
+}
+
+/* input drag and drop */
+.falseInputContainer {
+    width: 100%;
+    height: 100%;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: lightcyan;
+    border: 1px dotted cornflowerblue;
+    border-style: dashed;
+    cursor: pointer;
+    position: relative;
+}
+
+.falseInputContainer .file_input {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.falseInputContainer .falseInputLabel {
+    font-family: Arial, Helvetica, sans-serif;
+    color: cornflowerblue;
+    text-align: center;
+}
+
+/* add new client styles */
+.newClientForm {
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+    background: #e3e8ee;
+}
+
+.formTitle {
+    color: #415164;
+    font-size: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 3rem;
+}
+
+.customContainer {
+    width: 80%;
+    margin-top: 2rem;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 5px;
+    padding: 3rem;
+}
+
+.customRow {
+    width: 100%;
+    display: grid;
+    justify-items: start;
+    align-items: start;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 3rem;
+    margin: 1rem 0;
+}
+
+.customRow .form-group,
+.customRow .form-group .input-group,
+.customRow .form-group .input-group input[type="text"],
+.customRow .form-group .input-group textarea {
+    width: 100%;
+    resize: none;
+}
+
+.customRow-4 {
+    grid-template-columns: repeat(4, 1fr) !important;
+}
+
+.customRow-1 {
+    grid-template-columns: repeat(1, 1fr) !important;
+    justify-items: center;
+}
+
+.form-group label,
+.form-group span {
+    color: gray;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+
+.input-group {
+    cursor: pointer;
+}
+
+.input-group label {
+    font-weight: 500;
+}
+
+.checkboxGroup {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 1.5rem;
+    margin-top: 1rem;
+}
+
+.customSubBtn {
+    background-color: #03a9f4;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.customSubBtn:hover {
+    background-color: #03a9;
+}
+
+.filesContainer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2rem;
+    margin: 3rem 0;
+}
+
+@media (max-width: 768px) {
+    .customRow {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .customRow.customRow-4 {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+
+    .filesContainer {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .checkboxGroup {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+
+    /* third form */
+    .selectorContainer .tab a {
+        border-radius: 0;
+        margin: 1px;
+    }
+
+    .newPatitentForm {
+        padding: 0;
+    }
+
+    .formContainer {
+        width: 100%;
+        height: 100%;
+    }
+
+    .inputsWrapper {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    #tab4 .inputsWrapper {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    #signature {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+}
+
+@media (max-width: 425px) {
+    .newClientForm {
+        padding: 0;
+    }
+
+    .stepsContainer {
+        padding: 2.5rem;
+    }
+
+    .customRow {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .customRow.customRow-4 {
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+
+    .checkboxGroup {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    /* third form */
+    .inputsWrapper {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .selectorContainer .tab a {
+        font-size: 1rem;
+    }
+}

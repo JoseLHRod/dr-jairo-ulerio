@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220114T144500Z
+DTEND:20220114T154500Z
+DTSTAMP:20220113T204416Z
+ORGANIZER;CN=mmccreativity@gmail.com:mailto:mmccreativity@gmail.com
+UID:18r3fudjcnn3okkc77mnm2te46@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=fernandoff85@gmail.com;X-NUM-GUESTS=0:mailto:fernandoff85@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=mmccreativity@gmail.com;X-NUM-GUESTS=0:mailto:mmccreativity@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=drjairouleriovargas@gmail.com;X-NUM-GUESTS=0:mailto:drjairouleriova
+ rgas@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:1837495322
+CREATED:20220113T204414Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nNo edites esta sección de la descripción.\n\nUnir
+ me Zoom Meeting\nhttps://us04web.zoom.us/j/76669849329?pwd=ikGoDDDwCUSxwfY-
+ -oQQY0w7B8YF6y.1 (ID: 76669849329\, contraseña: YX5vQ2)\n\nInstrucciones pa
+ ra unirse: https://www.google.com/url?q=https://applications.zoom.us/addon/
+ invitation/detail?meetingUuid%3DJwS3cYLuT7S1MLwwHkfO7w%253D%253D%26signatur
+ e%3D0b8a331e634b61d73d6bb7a2e87af51d0c61a82a9d04de56f40df48d3ded9bd9%26v%3D
+ 1&sa=D&source=calendar&usg=AOvVaw09PnGtRCK294NVgfTDDmzw\n\n------------<br 
+ />Notice to host: Please save this event to sync its title and start time t
+ o the meeting\, and this notice will go away 1-2 minutes afterwards. \nIf t
+ he meeting details are not syncing correctly\, check this help article for 
+ troubleshooting steps: \n<a href="https://www.google.com/url?q=https://supp
+ ort.zoom.us/hc/en-us/articles/360020187492-Zoom-for-GSuite-add-on-Troublesh
+ ooting&amp\;sa=D&amp\;source=calendar&amp\;usg=AOvVaw3rLyYfxxpPuP2z1GuD962m
+ " target="_blank">https://support.zoom.us/hc/en-us/articles/360020187492-Zo
+ om-for-GSuite-add-on-Troubleshooting</a><br />------------<br /><br />Meeti
+ ng host: <a href="mailto:mmccreativity@gmail.com" target="_blank">mmccreati
+ vity@gmail.com</a>\n\nVisualice el evento en la URL https://calendar.google
+ .com/calendar/event?action=VIEW&eid=MThyM2Z1ZGpjbm4zb2trYzc3bW5tMnRlNDYgZHJ
+ qYWlyb3VsZXJpb3Zhcmdhc0Bt&tok=MjMjbW1jY3JlYXRpdml0eUBnbWFpbC5jb20wYzNhNTY4Z
+ mYzMTYyMWY2YmJhYzI3YjczMWFlM2M5MTRkODYxOTgw&ctz=America%2FSanto_Domingo&hl=
+ es&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220113T204414Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Revisión de Propuesta Caona Int. Part II 
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

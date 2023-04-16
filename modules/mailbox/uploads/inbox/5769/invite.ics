@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220819T150000Z
+DTEND:20220819T153000Z
+DTSTAMP:20220819T102545Z
+ORGANIZER;CN=andrea.gomez@realself.com:mailto:andrea.gomez@realself.com
+UID:9vimq9o5ojqgbd4rmpejbkelak@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=andrea.gomez@realself.com;X-NUM-GUESTS=0:mailto:andrea.gomez@realself.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=drjairouleriovargas@gmail.com;X-NUM-GUESTS=0:mailto:drjairouleriovargas
+ @gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:-321600156
+CREATED:20220819T102542Z
+DESCRIPTION:Hi Dr. Ulerio\,\n\nPlease make sure to ACCEPT this meeting invi
+ te. I'm looking forward to our call!\n\nHere is the link to your profile: h
+ ttp://www.realself.com/dr/jairo-ulerio-santo-domingo-dominican-republic\n\n
+ Join our meeting here: https://realself.zoom.us/my/dreag\n\nNeed to resched
+ ule? Find a new time that works for you here: https://realself.chilipiper.c
+ om/book/reschedule?rescheduleId=62ff6520467367217768a3c6\n\nThank you\,\nDr
+ ea Gomez\n\nYour Contact Information:\nName: Jairo Ulerio\nPhone Number: 82
+ 99193202\n\nZoom link for screen sharing:\n\nhttps://realself.zoom.us/my/dr
+ eag\n\n*This call could be recorded for training purposes*\n\n-::~:~::~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\
+ nNo edites esta sección de la descripción.\n\nVisualice el evento en la URL
+  https://calendar.google.com/calendar/event?action=VIEW&eid=OXZpbXE5bzVvanF
+ nYmQ0cm1wZWpia2VsYWsgZHJqYWlyb3VsZXJpb3Zhcmdhc0Bt&tok=MjUjYW5kcmVhLmdvbWV6Q
+ HJlYWxzZWxmLmNvbTc4YWViZTUzNTgxNTQ4ZjYxNmIzNmE2MGY4MjkzZmQ3NWI3MTBhMTc&ctz=
+ America%2FSanto_Domingo&hl=es&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220819T102542Z
+LOCATION:Drea will call you directly
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jairo Ulerio & Drea Gomez | RealSelf Meeting
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

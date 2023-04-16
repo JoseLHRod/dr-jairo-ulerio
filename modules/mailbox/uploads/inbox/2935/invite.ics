@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220127T223000Z
+DTEND:20220127T233000Z
+DTSTAMP:20220119T150551Z
+ORGANIZER;CN=mmccreativity@gmail.com:mailto:mmccreativity@gmail.com
+UID:6mf4cka63dv4kir8plm2roge0k@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Fernando Franco;X-NUM-GUESTS=0:mailto:fernandoff85@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=mmccreativity@gmail.com;X-NUM-GUESTS=0:mailto:mmccreativity@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mariaelenatorres92@gmail.com;X-NUM-GUESTS=0:mailto:mariaelenatorres
+ 92@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=drjairouleriovargas@gmail.com;X-NUM-GUESTS=0:mailto:drjairouleriova
+ rgas@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:-1978247373
+CREATED:20220118T233726Z
+DESCRIPTION:Está fecha la tenemos marcada para definir la hora y el día en 
+ el que presentamos el Setup de Marketing Digital\n\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNo edites
+  esta sección de la descripción.\n\nUnirme Zoom Meeting\nhttps://us04web.zo
+ om.us/j/75984762565?pwd=QpKq5IqxIEElAmaT7SOpxNhfqXF4az.1 (ID: 75984762565\,
+  contraseña: rsFd7J)\n\nInstrucciones para unirse: https://www.google.com/u
+ rl?q=https://applications.zoom.us/addon/invitation/detail?meetingUuid%3D%25
+ 2F%252FKMSV%252BpRcWD6Fkr%252FlJEKg%253D%253D%26signature%3D51a8168bb2a3f87
+ 7eae3299100361f1f946b5fc3a38e49f73eda9b0b1ee3dfaf%26v%3D1&sa=D&source=calen
+ dar&usg=AOvVaw1FYXospcBTc1VR1tF2w-Jr\n\nMeeting host: <a href="mailto:mmccr
+ eativity@gmail.com" target="_blank">mmccreativity@gmail.com</a>\n\nVisualic
+ e el evento en la URL https://calendar.google.com/calendar/event?action=VIE
+ W&eid=Nm1mNGNrYTYzZHY0a2lyOHBsbTJyb2dlMGsgZHJqYWlyb3VsZXJpb3Zhcmdhc0Bt&tok=
+ MjMjbW1jY3JlYXRpdml0eUBnbWFpbC5jb20wMzhmY2UzOTQwNTE2OWM0MGY4ZjA1ZWFkYzEyMjd
+ mMjk3ZmU5ZDkw&ctz=America%2FSanto_Domingo&hl=es&es=1.\n-::~:~::~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220119T150549Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TBD - PPT - Setup - Dr. Jairo Ulerio & Caona Interactive  
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

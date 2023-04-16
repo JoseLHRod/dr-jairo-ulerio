@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220127T203000Z
+DTEND:20220127T213000Z
+DTSTAMP:20220119T132946Z
+ORGANIZER;CN=Agenda Dentaris :mailto:0qfe5eg5m71ms1r0fgo4gjvrm0@group.calen
+ dar.google.com
+UID:36BC9A1E-8C39-413C-B1DB-81389854926A
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=drjairouleriovargas@gmail.com;X-NUM-GUESTS=0:mailto:drjairouleriova
+ rgas@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:1136121969
+CREATED:20220119T132944Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nNo edites esta sección de la descripción.\n\nVisu
+ alice el evento en la URL https://calendar.google.com/calendar/event?action
+ =VIEW&eid=XzZjcjQ0Z3BwODRva2FiOW84Y3BqaWI5azY0cGs2YmEyNjUyNDRiOW82NHBqZ2U5b
+ zZrcTNpY2htODQgZHJqYWlyb3VsZXJpb3Zhcmdhc0Bt&tok=NTIjMHFmZTVlZzVtNzFtczFyMGZ
+ nbzRnanZybTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbTNhOGNkNGQ5ZTE0NDg2NTA0ZGU3Zm
+ FiMmM5ZWM0ZTgwYzI3YmE5N2Q&ctz=America%2FSanto_Domingo&hl=es&es=1.\n-::~:~::
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:
+ ~::-
+LAST-MODIFIED:20220119T132944Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunión dra. Troncoso LFSD María de Jesus 
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

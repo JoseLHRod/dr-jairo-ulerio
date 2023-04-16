@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20211201T134500Z
+DTEND:20211201T144500Z
+DTSTAMP:20211201T125345Z
+ORGANIZER;CN=mmccreativity@gmail.com:mailto:mmccreativity@gmail.com
+UID:1hia2f5c4d0ub94etka57ip6oa@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=fernandoff85@gmail.com;X-NUM-GUESTS=0:mailto:fernandoff85@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=mmccreativity@gmail.com;X-NUM-GUESTS=0:mailto:mmccreativity@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=carolina@caonainteractive.com;X-NUM-GUESTS=0:mailto:carolina@caonai
+ nteractive.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=drjairouleriovargas@gmail.com;X-NUM-GUESTS=0:mailto:drjairouleriova
+ rgas@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:-1524076783
+CREATED:20211125T190802Z
+DESCRIPTION:Según lo conversado con la Sra. Sophia esta pendiente de pautar
+  la hora exacta el día entes de la reunión\, por el momento la hora que sal
+ e en este recordatorio no es la oficial.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNo edites esta se
+ cción de la descripción.\n\nUnirme Zoom Meeting\nhttps://us04web.zoom.us/j/
+ 78336365471?pwd=M1RLaWpHd3VCU3VRNmlpQXdrL1RVQT09 (ID: 78336365471\, contras
+ eña: 57d19xNE)\n\nInstrucciones para unirse: https://www.google.com/url?q=h
+ ttps://applications.zoom.us/addon/invitation/detail?meetingUuid%3D25Zo%252B
+ QsqSoCdU1BhfQBNxg%253D%253D%26signature%3Df1d9f1ca946c6388883466714bf3dacae
+ 2fb2eb4fe62af6ce4103180a6b0d158%26v%3D1&sa=D&source=calendar&usg=AOvVaw1wjf
+ BhsS3CldnwCgxE7st0\n\nMeeting host: <a href="mailto:mmccreativity@gmail.com
+ " target="_blank">mmccreativity@gmail.com</a>\n\nVisualice el evento en la 
+ URL https://calendar.google.com/calendar/event?action=VIEW&eid=MWhpYTJmNWM0
+ ZDB1Yjk0ZXRrYTU3aXA2b2EgZHJqYWlyb3VsZXJpb3Zhcmdhc0Bt&tok=MjMjbW1jY3JlYXRpdm
+ l0eUBnbWFpbC5jb21jMGFmOWJkZjJmZWQyOGU1NjI2YTAxMDM2NzEyMWE1YTIyMGZjYjU4&ctz=
+ America%2FSanto_Domingo&hl=es&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20211201T125344Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunión con CAONA IN. Y JAIRO
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
