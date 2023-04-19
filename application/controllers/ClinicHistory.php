@@ -701,6 +701,21 @@ class ClinicHistory extends AdminController
             }
         }else{
             $leadId = $this->clients_model->add($data);
+            if (is_file($_FILES['ppassport_pic']['tmp_name'])) {
+                $this->upload_image('ppassport_pic', $leadId);
+            }
+            if (is_file($_FILES['pfront_pic']['tmp_name'])) {
+                $this->upload_image('pfront_pic', $leadId);
+            }
+            if (is_file($_FILES['pr_side_pic']['tmp_name'])) {
+                $this->upload_image('pr_side_pic', $leadId);
+            }
+            if (is_file($_FILES['pl_side_pic']['tmp_name'])) {
+                $this->upload_image('pl_side_pic', $leadId);
+            }
+            if (is_file($_FILES['pback_pic']['tmp_name'])) {
+                $this->upload_image('pback_pic', $leadId);
+            }
             return [
                 'code' => 1,
                 'msg' => 'client Created sucessfully',
@@ -1054,7 +1069,6 @@ class ClinicHistory extends AdminController
             $this->db->where('userid', $clientID);
             $this->db->update(db_prefix() . 'clients', $columnToUpdate);
 
-            log_message('successful', $this->upload->data());
         } else {
             log_message('error', $this->upload->display_errors());
         }

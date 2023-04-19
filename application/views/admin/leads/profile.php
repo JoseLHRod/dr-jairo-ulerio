@@ -659,9 +659,12 @@
       data.append('bmi', bmi);
       if( bmi >= 30 ){
          data.append('status', 6);
-      }else{
-         data.append('status', 4);
       }
+      if($("[name='status']").val()==''){
+         data.append('status', 5);
+      }
+      
+      data.append('source', 3);
       
 
       $.ajax({
