@@ -36,7 +36,7 @@ class Invoice_pdf extends App_pdf
         $this->set_view_vars([
             'status'         => $this->invoice->status,
             'invoice_number' => $this->invoice_number,
-            'payment_modes'  => $this->get_payment_modes(),
+            // 'payment_modes'  => $this->get_payment_modes(),
             'invoice'        => $this->invoice,
         ]);
 
